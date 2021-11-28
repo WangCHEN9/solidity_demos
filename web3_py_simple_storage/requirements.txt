@@ -1,3 +1,0 @@
-black
-py-solc-x
-python-dotenv
